@@ -10,14 +10,14 @@ Gem::Specification.new do |spec|
 
   spec.summary = "NOMSS"
   spec.description = "New Order Management System"
-  spec.homepage = "https://github.com/joshgermon/nomss"
+  spec.homepage = "https://github.com/joshgermon-nib/nomss-ruby"
   spec.required_ruby_version = ">= 2.6.0"
 
   spec.metadata["allowed_push_host"] = "https://example.com"
 
   spec.metadata["homepage_uri"] = spec.homepage
-  spec.metadata["source_code_uri"] = "https://github.com/joshgermon/nomss-ruby"
-  spec.metadata["changelog_uri"] = "https://github.com/joshgermon/nomss-ruby"
+  spec.metadata["source_code_uri"] = "https://github.com/joshgermon-nib/nomss-ruby"
+  spec.metadata["changelog_uri"] = "https://github.com/joshgermon-nib/nomss-ruby"
 
   # Specify which files should be added to the gem when it is released.
   # The `git ls-files -z` loads the files in the RubyGem that have been added into git.
